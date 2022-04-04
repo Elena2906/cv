@@ -9,6 +9,7 @@
 :paintbrush:Telegram: [Alena_say29](https://web.telegram.org/z/)
 
 :pen:Vkontakte: [Elena Kaporikova](https://vk.com/id285859304)
+
 ## 	:airplane:*The beginning of a long journey:*
 
 *At the end of the school, there was an interest in the subject of computer science, on which they gave a knowledge base that allowed them to start a more in-depth study of the field of information technology.*
