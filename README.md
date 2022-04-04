@@ -1,3 +1,3 @@
 # cv
 Resume
-https://Elena2906.github.io/cv/cv
+https://github.com/Elena2906/cv/blob/gh-pages/cv.md
