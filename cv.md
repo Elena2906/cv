@@ -19,7 +19,7 @@ Vkontakte: [Elena Kaporikova](https://vk.com/id285859304)
 *At the moment, I continue to study those areas that are related to my future field of activity, specifically, information technology.*
 
 *I believe that we need to build and walk our path to success on our own, because the more mistakes we make, the more we appreciate what we have.*
-##*Skills and proficiency:*
+## *Skills and proficiency:*
 * **HTML5**
 * **Git, GitHub**
 * **VS Code, C++, Pascal, Assembler**
@@ -87,7 +87,7 @@ else{
 # <img src="https://user-images.githubusercontent.com/102890678/161447989-1d161247-1cf4-49e9-89c4-cac137c2efe1.png" width="340" height="140" />
 * **Self-study Adobe Photoshop**
 # <img src="https://user-images.githubusercontent.com/102890678/161448392-ad1197f7-12ff-4f17-ae31-2bcc77ff0fde.png" width="340" height="140" />
-##*Languages:*
+## *Languages:*
 * **English- Intermediate/Upper-intermediate**
 # <img src="https://user-images.githubusercontent.com/102890678/161447216-29a8e5c2-551e-4f15-b085-fbe6800f9414.png" width="340" height="140" />
 
