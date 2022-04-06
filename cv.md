@@ -2,7 +2,7 @@
 ## :woman_office_worker: *future manager-economist of information systems*
 **Contact information:**
 
-:telephone_receiver:Phone: +375(29)697-30-89
+:telephone_receiver: :pencil2:Phone: +375(29)697-30-89
 
 :e-mail:E-mail: elenakaporikova29@gmail.com
 
