@@ -1,1 +1,96 @@
+  body {
+    color: black;
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    font-family: 'Bitter', serif;
+    font-size: 18px;
+    font-weight: 400;
+    justify-content: space-between;
+    line-height: 1.5;
+    margin: 0;
+    min-height: 100vh;
+    min-width: 320px;
+    padding: 0;
+}
+.header {
+  background-color: #F5C55D;
+}
+.footer{
+  background-color:#F5C55D;
+}
+* {
+    box-sizing: border-box;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .nav-list {
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+ 
+  html {
+    scroll-behavior: smooth; 
+  }
+ 
+  .nav-link {
+    padding: 0 30px;
+    line-height: 70px;
+  }
+  .nav-link {
+    transition: .3s;
+  }
+  .section-item a {
+    color: #829985;
+    text-decoration: none;  
+    transition: color 0.5s;
+  }
+  .section-item a:hover {
+    color: #4d2323;
+  }
+    .main-container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    
+    .section {
+      width: 50%;
+    }
+    @media (max-width: 768px) {
+      .section {
+        width: 100%;
+      }
+    }
+    
+   
+
+
+
+    .contacts-item:first-child:before {
+      background-image: url(53eee33….svg);
+      border: 1px solid #fff;
+  }.contacts-item:before {
+    background-repeat: no-repeat;
+    background-size: contain;
+    content: "";
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 24px;
+}
+.section-item:before {
+  border: 1px solid #998299;
+  border-radius: 50%;
+  content: "";
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
 
